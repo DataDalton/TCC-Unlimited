@@ -1,3 +1,21 @@
+**Changelog - 1.0.3**
+
+**Mods**
+
+Update Connectivity
+
+Update Moonlight Lib
+
+Update U Team Core
+
+**KubeJS**
+
+Replace Mahou Tsukai mortar and pestle recipe to gate it behind draconic evolution
+
+Remove Mahou Tsukai Hammer recipe
+
+---
+
 **Changelog - 1.0.2**
 
 **Mods**
