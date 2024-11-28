@@ -1,3 +1,46 @@
+**Changelog - 1.0.4**
+
+**Mods**
+
+Remove Redirector - Conflict with Yung's Better Dungeons as it was causing crashes
+
+---
+
+**Changelog - 1.0.3b**
+
+**Mods**
+
+Update Connectivity
+
+Update Moonlight Lib
+
+Update U Team Core
+
+Update Supplementaries
+
+**Config**
+
+Better FPS
+ 
+Horizontal render distance sphere 100% -> 0%
+Vertical render distance sphere 50%
+
+JAMD
+ 
+All dimensions ore multiplier 1x -> 3x
+
+**KubeJS**
+
+Replace Mahou Tsukai mortar and pestle recipe to gate it behind draconic evolution
+
+Replace Draconic Evolution draconium and wyvern core recipes
+
+Remove Mahou Tsukai Hammer recipe
+
+Remove cyclic sleeping mat, crafter recipes 
+
+---
+
 **Changelog - 1.0.3**
 
 **Mods**
