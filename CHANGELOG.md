@@ -1,3 +1,37 @@
+**Changelog - 1.0.7**
+
+**Mods**
+
+Re-add tiny gates - Accidentally removed 
+
+---
+
+**Changelog - 1.0.6**
+
+**Mods**
+
+Update Cataclysm Apotheosis Addon
+
+Update AdvancedAE
+
+Update Thermal Extra
+
+---
+
+**Changelog - 1.0.5**
+
+**Mods**
+
+Update Server Performance - Smooth Chunk Save
+
+**Configs**
+
+Ensure FTB Chunks map is enabled by default
+
+Better compatibility checker - Set versioning
+
+---
+
 **Changelog - 1.0.4**
 
 **Mods**
